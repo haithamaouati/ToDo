@@ -47,4 +47,24 @@ button[type="submit"]:hover {
   margin-bottom: 10px;
   padding: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#task-list li input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+button.remove-task {
+  background-color: #f44336;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button.remove-task:hover {
+  background-color: #ff5733;
 }
