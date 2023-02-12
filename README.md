@@ -17,6 +17,8 @@ ToDo Web Application
 [ToDo](https://haithamaouati.github.io/ToDo)
 ## Table of Contents
 - [Demo](#demo)
+- [Flowchart](#flowchart)
+- [Languages](#languages)
 - [Author](#author)
 - [License](#license)
 
@@ -24,21 +26,13 @@ ToDo Web Application
 Version: **1.0**
 [https://haithamaouati.github.io/ToDo](https://haithamaouati.github.io/ToDo)
 
-**Flowchart**
+## Flowchart
 
 ```mermaid
 flowchart TD;
 I[Input]-->|Add task|L(List);
 L-->|Remove task|L;
 ```
-
-## Author
-Made with :heart: by **Haitham Aouati**
-
-## License
-This repository is under [Unlicense License](https://github.com/haithamaouati/ToDo/blob/main/LICENSE).
-
-([Table of Contents](#table-of-contents))
 
 ## Languages
 ```mermaid
@@ -48,3 +42,11 @@ pie
     "CSS" : 35.9
     "JavaScript" : 31.3
 ```
+
+## Author
+Made with :heart: by **Haitham Aouati**
+
+## License
+This repository is under [Unlicense License](https://github.com/haithamaouati/ToDo/blob/main/LICENSE).
+
+([Table of Contents](#table-of-contents))
