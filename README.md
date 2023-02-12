@@ -28,7 +28,8 @@ Version: **1.0**
 
 ```mermaid
 flowchart TD;
-O((Operator))-->|Mobilis|T(Task)-->|Check Balance|C[Code];
+I[Input]-->|Add task|L(List);
+L-->|Remove task|L;
 ```
 
 ## Author
