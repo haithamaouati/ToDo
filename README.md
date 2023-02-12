@@ -40,4 +40,11 @@ This repository is under [Unlicense License](https://github.com/haithamaouati/To
 
 ([Table of Contents](#table-of-contents))
 
-
+## Languages
+```mermaid
+pie
+    title Languages
+    "HTML" : 32.8
+    "CSS" : 35.9
+    "JavaScript" : 31.3
+```
